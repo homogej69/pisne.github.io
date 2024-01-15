@@ -40,7 +40,7 @@
 
 <div class="header">
     <a href="#home">Home</a>
-    <a href="list">Seznam Písniček</a>
+    <a href="[list](https://homogej69.github.io/pisne.github.io/)">Seznam Písniček</a>
 </div>
 
 <div class="content">
