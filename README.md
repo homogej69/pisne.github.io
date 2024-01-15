@@ -43,7 +43,7 @@
 
 <div class="content">
     <h1>Vítejte v našem Zpěvníku</h1>
-    <p>Píseň</p>
+    <p>Nejlepší písničky</p>
     <div class="code">
 Moje oblíbené skladby a písničky. V seznamu můžete najít moje nejoblíbenější, jako je skákal pes.
     </div>
