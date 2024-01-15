@@ -47,8 +47,7 @@
     <h1>Vítejte v našem Zpěvníku</h1>
     <p>Píseň</p>
     <div class="code">
-        Song: Vltava<br>
-        Artist: Bedřich Smetana<br>
+Moje oblíbené skladby a písničky.
     </div>
 </div>
 
